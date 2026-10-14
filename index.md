@@ -5,6 +5,7 @@ Hi! I am learning Linux, GitHub and Cloud/DevOps.
 - Exploring Cloud and DevOps
 
 # My Blog
-[Read My Linux Journey]({{ site.baseurl }}{% post_url 2026-10-14-my-learning-journey %})
+[Read My Linux Journey](/github-pages/2026/10/14/my-learning-journey.html)
+
 
 
