@@ -1,8 +1,4 @@
----
 
-title: "My-Learning-Journey"
-date: 2026-10-14
----
 
 # My Learning Journey
 
